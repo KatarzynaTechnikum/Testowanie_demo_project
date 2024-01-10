@@ -1,1 +1,2 @@
 Zajęcia z testowania
+Komendy Git - git status
